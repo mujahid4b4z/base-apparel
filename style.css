@@ -1,0 +1,105 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.second{
+    background-color: hsl(0, 0%, 100%);
+    position: relative;
+    height: 86px;
+    padding: 25px 0px 20px 20px;
+}
+.circle{
+    color: hsl(0, 79%, 84%);
+    position: absolute;
+    padding: 12px 0px 0px 10px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 34px;
+    font-weight: 520;
+}
+.base{
+    color: hsl(0, 6%, 24%);
+    position: absolute;
+    padding: 12px 0px 0px 42px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 13px;
+    font-weight: 900;
+    letter-spacing: 4px;
+}
+.apparel{
+    color: hsl(0, 6%, 24%);
+    position: absolute;
+    padding: 26px 0px 0px 42px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 12px;
+    font-weight: 900;
+    letter-spacing: 4px;
+}
+.third{
+    background: linear-gradient(to top, hsl(0,100%,98%)20%,hsl(0,0%,100%));
+}
+.fourth{
+    position: relative;
+    padding: 0px 0px 40px 0px;
+}
+.were{
+    color: hsl(0, 36%, 70%);
+    padding: 60px 0px 0px 108px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 38px;
+    font-weight: 500;
+    letter-spacing: 10px;
+}
+.coming{
+    color: hsl(0, 6%, 24%);
+    padding: 0px 0px 0px 74px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    letter-spacing: 10px;
+}
+.soon{
+    color: hsl(0, 6%, 24%);
+    padding: 0px 0px 0px 110px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    letter-spacing: 10px;
+}
+.hello{
+    color: hsl(0, 36%, 70%);
+    position: absolute;
+    top: 150px;
+    padding: 50px 10px 0px 46px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 22px;
+}
+span{
+    padding-left: 104px;
+}
+textarea{
+    margin: 150px 0px 62px 30px;
+    border: 2px solid hsl(0, 80%, 86%);
+    border-radius: 32px;
+    padding: 18px 4px 0px 24px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+}
+::placeholder{
+    color: hsl(0, 36%, 70%);
+}
+input{
+    background: linear-gradient(to left, hsl(0,93%,68%)40%,hsl(0,74%,74%));
+    color: aliceblue;
+    border: 2px solid hsl(0,93%,68%);
+    border-radius: 32px;
+    width: 70px;
+    height: 50px;
+    position: absolute;
+    top: 328px;
+    left: 284px;
+    font-size: 28px;
+}
